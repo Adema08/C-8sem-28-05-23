@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\bin\Debug\net7.0\task 46.exe
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\bin\Debug\net7.0\task 46.deps.json
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\bin\Debug\net7.0\task 46.runtimeconfig.json
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\bin\Debug\net7.0\task 46.dll
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\bin\Debug\net7.0\task 46.pdb
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\obj\Debug\net7.0\task 46.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\obj\Debug\net7.0\task 46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\obj\Debug\net7.0\task 46.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\obj\Debug\net7.0\task 46.AssemblyInfo.cs
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\obj\Debug\net7.0\task 46.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\obj\Debug\net7.0\task 46.dll
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\obj\Debug\net7.0\refint\task 46.dll
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\obj\Debug\net7.0\task 46.pdb
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\obj\Debug\net7.0\task 46.genruntimeconfig.cache
+C:\Users\User\Desktop\Я богатый разработчик\C# 7sem\task 46\obj\Debug\net7.0\ref\task 46.dll
